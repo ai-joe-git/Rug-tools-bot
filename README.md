@@ -1,5 +1,5 @@
 # Rug-tools-bot
-# Solana Bot Control Panel
+# Solana Bot Control Panel CLICK THE IMAGE TO SEE A DEMO VIDEO OF THE BOT ! 🤖 
 
 [![Demo Video Thumbnail](./demo.jpg)](https://vimeo.com/1057719791)
 

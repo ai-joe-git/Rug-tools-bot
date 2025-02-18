@@ -3,7 +3,7 @@
 
 CLICK THE IMAGE TO SEE A DEMO VIDEO OF THE BOT ! 🤖 
 
-[![Demo Video Thumbnail](./demo.jpg)](https://t.me/pumpfunrugtools)
+[![Demo Video Thumbnail](./demo.jpg)](https://t.me/pumpfunrugtools/1)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Welcome to the Solana Bot Control Panel! This powerful tool allows you to manage
 ## How to Use
 
 1. **Contact for Access**:
-   - The source code is not included in this repository. To gain access, please contact me on Telegram: [@Zardoz88](https://t.me/Zardoz88).
+   - The source code is not included in this repository. To gain access, please contact me on Telegram: [PUMP.FUN RUG TOOLS](https://t.me/pumpfunrugtools/1).
 
 2. **Input Token Details**:
    - Enter the token name, website link, and Twitter account.
@@ -37,7 +37,7 @@ Welcome to the Solana Bot Control Panel! This powerful tool allows you to manage
 
 ## Support
 
-For any questions or support, feel free to reach out to me on Telegram: [@Zardoz88](https://t.me/Zardoz88).
+For any questions or support, feel free to reach out to me on Telegram: [PUM.FUN RUG TOOLS](https://t.me/pumpfunrugtools/1).
 
 ## Pricing
 

@@ -3,7 +3,7 @@
 
 CLICK THE IMAGE TO SEE A DEMO VIDEO OF THE BOT ! 🤖 
 
-[![Demo Video Thumbnail](./demo.jpg)](https://vimeo.com/1057719791)
+[![Demo Video Thumbnail](./demo.jpg)](https://t.me/+c29MifzFL9Y0NGZk)
 
 ## Overview
 

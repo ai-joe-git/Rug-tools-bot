@@ -1,5 +1,4 @@
-# Rug-tools-bot
-# Solana Bot Control Panel 
+# PUMP.FUN RUG TOOLS
 
 CLICK THE IMAGE TO SEE A DEMO VIDEO OF THE BOT ! 🤖 
 

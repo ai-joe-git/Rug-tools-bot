@@ -3,7 +3,7 @@
 
 CLICK THE IMAGE TO SEE A DEMO VIDEO OF THE BOT ! 🤖 
 
-[![Demo Video Thumbnail](./demo.jpg)](https://t.me/+c29MifzFL9Y0NGZk)
+[![Demo Video Thumbnail](./demo.jpg)](https://t.me/pumpfunrugtools)
 
 ## Overview
 

@@ -1,7 +1,7 @@
 # Rug-tools-bot
 # Solana Bot Control Panel
 
-[![Demo Video](https://vimeo.com/1057719791)](https://vimeo.com/1057719791)
+[![Demo Video Thumbnail](https://vimeo.com/1057719791?badge=0)](https://vimeo.com/1057719791)
 
 ## Overview
 
